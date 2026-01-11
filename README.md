@@ -1,6 +1,6 @@
 # 🔐 Multimedia Steganography Web Application
 
-A secure full-stack Flask web application that performs Image, Audio, and Video Steganography, allowing users to hide and extract confidential data inside digital media files using LSB-based steganography techniques.
+**A secure full-stack Flask web application that performs Image, Audio, and Video Steganography, allowing users to hide and extract confidential data inside digital media files using LSB-based steganography techniques.**
 
 This project provides a single unified platform for Image Steganography, Audio Steganography, and Video Steganography, integrated with user authentication, operation history tracking, and a responsive modern UI.
 ---
